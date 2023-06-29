@@ -1,7 +1,6 @@
-Ivanov Ivan Ivanovich 01.01.1990 9997775533 m
-Ivanov Ivan Ivanovich 01.01.1999 9876543210 m
-Petrov Ivan Ivanovich 01.01.1995 9967778844 m
-Petrov Petr Petrovich 01.01.1980 9973332211 m
-Sidorova Mariya Petrovna 01.01.1980 9015550044 f
 <Ivanov><Ivan><Ivanovich><1990-01-01><1407840941><m>
 <Ivanov><Ivan><Ivanovich><1999-01-01><1286608618><m>
+<Petrov><Ivan><Ivanovich><1995-01-01><1377844252><m>
+<Petrov><Petr><Petrovich><1980-01-01><1383397619><m>
+<Sidorova><Mariya><Petrovna><1980-01-01><425617619><f>
+
